@@ -3,7 +3,7 @@ Interested in reinforcement learning, representation learning, world models and 
 
 **Stack:** Python, PyTorch, scikit-learn, CatBoost, Hugging Face, SQL, Django, Docker
 
-### Highlights
+### Work Experience
 - **Gazprom Transgaz Yekaterinburg** - led a 3-person team on pipeline defect classification:
   merged data from 5+ heterogeneous sources and built a CatBoost pipeline; the prototype cut
   preliminary defect sorting time from a week to about an hour.
