@@ -1,34 +1,15 @@
-# Антон Никонов
+Anton Nikonov
 
-Магистрант 2 курса, матмех УрФУ.
-Интересы: обучение с подкреплением, обучение представлений, world models, embodied AI.
+MSc student in Mathematics & Computer Science at Ural Federal University. Interested in reinforcement learning, representation learning, world models and embodied AI.
 
-**Стек:** Python, PyTorch, scikit-learn, CatBoost / градиентный бустинг, Hugging Face, Django, PostgreSQL, Docker, Linux
+Stack: Python, PyTorch, scikit-learn, CatBoost, Hugging Face, SQL, Django, Docker
 
-## Опыт
+Highlights
+Gazprom Transgaz Yekaterinburg - led a 3-person team on pipeline defect classification: merged data from 5+ heterogeneous sources and built a CatBoost pipeline; the prototype cut preliminary defect sorting time from a week to about an hour.
+Brandpol - replaced regex-based detection of counterfeit listings with a fine-tuned local LLM (inference server, HTML compression to fit the context window, fine-tuning on rented GPUs), deployed to production.
 
-**Brandpol** — backend-разработчик, ML-задачи
-- Backend сервиса для юристов на Django.
-- Детекция нарушений на сайтах (контрафакт): предложил заменить поиск по регулярным выражениям
-  классификацией с помощью локальной LLM. Развернул инференс-сервер, подобрал модель, построил пайплайн
-  (сбор HTML → очистка и сжатие страницы под контекстное окно → классификация).
-  Базовая квантизованная модель справлялась нестабильно — провёл дообучение на арендованных GPU.
-  Модель выведена в продакшен.
+Work code is under NDA, happy to discuss details.
 
-**ООО «Газпром трансгаз Екатеринбург»** — научно-техническая конференция (технический лид команды из 3 человек)
-- Задача: прогноз срока замены участков газопровода и классификация дефектов.
-- Собрал и унифицировал данные из разнородных источников по филиалам
-  (SQL, CSV, Excel, текстовые файлы, оцифровка бумажных документов).
-- Заменил ручной эвристический расчёт в Excel моделью градиентного бустинга на табличных данных.
-- Уточнил постановку задачи с экспертом предметной области, представил результаты на конференции.
+Contacts
 
-*Код и данные по рабочим задачам находятся под NDA — готов подробно рассказать лично.*
-
-## Проекты
-
-- [quiz_service](https://github.com/AntonN1konov/quiz_service) — сервис онлайн-тестирования
-  (Django, PostgreSQL, Nginx, Docker Compose), тестовое задание при отборе в Brandpol.
-
-## Контакты
-
-Telegram: [@AntonN1konov](https://t.me/AntonN1konov) · Email: [anton.nikonov.work@gmail.com](mailto:anton.nikonov.work@gmail.com)
+Telegram · anton.nikonov.work@gmail.com
