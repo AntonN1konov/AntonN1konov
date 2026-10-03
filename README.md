@@ -14,3 +14,6 @@ Interested in reinforcement learning, representation learning, world models and 
 
 ### Contacts
 [Telegram](https://t.me/AntonN1konov) · [anton.nikonov.work@gmail.com](mailto:anton.nikonov.work@gmail.com)
+
+KAGGLE
+https://www.kaggle.com/antonnikonov
